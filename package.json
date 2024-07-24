@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-stringify": "^6.5.0",
+    "json-2-csv": "^5.5.4",
+    "ramda": "^0.28.0",
+    "stream-transform": "^3.3.2"
+  },
+  "name": "i18n",
+  "version": "1.0.0",
+  "main": "i18n.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

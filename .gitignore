@@ -1,0 +1,10 @@
+ar-for-when-dir-is-ltr
+ar-original-for-when-dir-is-rtl
+en-original
+translations-07-23-2024
+*.csv
+
+node_modules
+
+.DS_Store
+.env
