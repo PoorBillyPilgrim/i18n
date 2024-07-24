@@ -1,7 +1,8 @@
 ar-for-when-dir-is-ltr
 ar-original-for-when-dir-is-rtl
 en-original
-translations-07-23-2024
+translations-07-23-2024/csv/*
+translations-07-23-2024/*.json
 *.csv
 
 node_modules
